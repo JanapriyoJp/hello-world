@@ -1,0 +1,10 @@
+// CPP program to print 
+// Hello World without semicolon 
+// using if statement 
+#include <iostream> 
+int main() 
+{ 
+	if (std::cout << "Hello World ") 
+	{ 
+	} 
+} 
